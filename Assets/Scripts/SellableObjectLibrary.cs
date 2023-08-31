@@ -1,11 +1,10 @@
 using UnityEngine;
-using UnityEngine.UI;
 
-[CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/SellableObject", order = 1)]
+[CreateAssetMenu(fileName = "Item", menuName = "ScriptableObjects/SellableObject", order = 1)]
 public class SellableObjectLibrary : ScriptableObject
 {
     public string itemName;
-    public Image itemSprite;
+    public Sprite itemSprite;
     public int itemCost;
     public string itemDescription;
 }

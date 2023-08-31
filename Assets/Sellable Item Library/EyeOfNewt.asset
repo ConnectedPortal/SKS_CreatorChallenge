@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d1dcf07dbd3aebf4693577c75276632a, type: 3}
-  m_Name: Rock
+  m_Name: EyeOfNewt
   m_EditorClassIdentifier: 
-  itemName: Rock
-  itemSprite: {fileID: 21300000, guid: 1de3a258af1aae14cb7087e82ce6c1b7, type: 3}
-  itemCost: 5
-  itemDescription: Found it outside. Pretty neat huh?
+  itemName: Eye of Newt
+  itemSprite: {fileID: 21300000, guid: 2c1b11a312ad773409bb6d63f4e084ec, type: 3}
+  itemCost: 4
+  itemDescription: An overrated ingredient for potions...
